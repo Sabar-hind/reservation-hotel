@@ -1,6 +1,6 @@
 # Application Web de Réservation d'Hôtel
 
-**Étudiant :** Nouri Saad  
+**Étudiant :** Hind Sabar  
 **Contrôle :** 3  
 **Thème :** Réservation d'hôtel
 
