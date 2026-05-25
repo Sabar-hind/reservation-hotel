@@ -1,0 +1,13 @@
+{
+  "name": "reservation-hotel",
+  "version": "1.0.0",
+  "description": "Application web de réservation d'hôtel - Contrôle 3",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["reservation", "hotel", "nodejs"],
+  "author": "Nouri Saad",
+  "license": "ISC"
+}
